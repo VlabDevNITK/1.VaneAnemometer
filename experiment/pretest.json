@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does \"Anemo\" word refer to?",
+      "options": {
+        "a": "Air",
+        "b": "Water",
+        "c": "Ether",
+        "d": "Fire"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correct_answer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Anemometer used to measure ______",
+      "options": {
+        "a": "Air velocity at a particular point",
+        "b": "Air velocity through a cross-sectional area",
+        "c": "Air pressure",
+        "d": "Relative humidity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correct_answer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "_______ invented first mechanical anemometer",
+      "options": {
+        "a": "Leon Battista Alberti",
+        "b": "Thomas Crook",
+        "c": "Robert Hook",
+        "d": "Thomas Alva Edison"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correct_answer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Vane anemometer have _______",
+      "options": {
+        "a": "Blade",
+        "b": "Cup",
+        "c": "Arrow",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correct_answer": "a",
+      "difficulty": ""
+    }
+  ]
+}
