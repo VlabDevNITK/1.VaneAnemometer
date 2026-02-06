@@ -2,38 +2,72 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": "What does \"Anemo\" word refer to?",
+      "options": {
+        "a": "Air",
+        "b": "Water",
+        "c": "Ether",
+        "d": "Fire"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correct_answer": "a",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": "Anemometer used to measure ______",
+      "options": {
+        "a": "Air velocity at a particular point",
+        "b": "Air velocity through a cross-sectional area",
+        "c": "Air pressure",
+        "d": "Relative humidity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correct_answer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "_______ invented first mechanical anemometer",
+      "options": {
+        "a": "Leon Battista Alberti",
+        "b": "Thomas Crook",
+        "c": "Robert Hook",
+        "d": "Thomas Alva Edison"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correct_answer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Vane anemometer have _______",
+      "options": {
+        "a": "Blade",
+        "b": "Cup",
+        "c": "Arrow",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correct_answer": "a",
+      "difficulty": ""
     }
   ]
 }

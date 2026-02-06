@@ -2,38 +2,177 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What does Vane anemometer calculates?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Air velocity",
+        "b": "Distance",
+        "c": "Acceleration",
+        "d": "Momentum"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the range of Vane anemometer in mines?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " 01 - 05 m/sec",
+        "b": "01 - 10 m/sec",
+        "c": "01 - 15 m/sec",
+        "d": " 01 - 20 m/sec"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The vanes are set an angle to the direction of air flow",
+      "answers": {
+        "a": "0.795 radian",
+        "b": "0.785 radian",
+        "c": "45 Degree",
+        "d": "Both b and c"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Axis of Vane anemometer should be in the",
+      "answers": {
+        "a": "Direction parallel to the Air",
+        "b": "Vertical to the direction of air",
+        "c": "Inclined 30 degree",
+        "d": "45 degree to the direction of air"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "What does Digital Anemometer calculates ?",
+      "answers": {
+        "a": "Air velocity",
+        "b": "Distance",
+        "c": "Acceleration",
+        "d": "Momentum"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Low range and high range Vane anemometer contains ____ blades",
+      "answers": {
+        "a": "4 & 8",
+        "b": "2 & 4",
+        "c": "3 & 6",
+        "d": "5 & 10"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which factor is considered to obtain correct velocity?",
+      "answers": {
+        "a": "Atkinson factor",
+        "b": "Method factor ",
+        "c": "Dust Factor",
+        "d": "Friction Factor"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Method factor depends on ___________",
+      "answers": {
+        "a": "Size of the duct",
+        "b": "Quantity of dust passing through the duct",
+        "c": "Air resistance with blade of vane anemometer",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Approximate value of Method factor in mine is _______",
+      "answers": {
+        "a": "0.75",
+        "b": "0.95",
+        "c": "1.55",
+        "d": "0.85"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the maximum quantity of air Vane anemometer can measure in a gallery of coal mine working under Board & Pillar method?",
+      "answers": {
+        "a": "216m<sup>3</sup>/sec",
+        "b": "150.56 m<sup>3</sup>/sec",
+        "c": "183.6 m<sup>3</sup>/sec",
+        "d": "200.9 m<sup>3</sup>/sec"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
     }
   ]
 }
+
+
+
